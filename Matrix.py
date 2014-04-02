@@ -7,7 +7,7 @@ I=[[1.0,0.0,0.0],
 J=[[0.0,0.0,1.0],
    [0.0,1.0,0.0],
    [1.0,0.0,0.0]]
-#print(A)
+#print(ABC)
 #print(I)
 def matrixPrint(M,name):
     print("Matrix "+name)
